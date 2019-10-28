@@ -1,4 +1,5 @@
 git status --> checken
 git add . --> alles toevoegen
 git commit --> commit het
+git commit -m "test"
 git push --> om het op github te zien
