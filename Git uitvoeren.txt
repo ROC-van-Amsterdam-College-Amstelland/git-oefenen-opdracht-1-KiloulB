@@ -1,0 +1,4 @@
+git status --> checken
+git add . --> alles toevoegen
+git commit --> commit het
+git push --> om het op github te zien
